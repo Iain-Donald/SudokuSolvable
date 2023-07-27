@@ -1,0 +1,15 @@
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\bin\Debug\net7.0\SudokuSolvable.exe
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\bin\Debug\net7.0\SudokuSolvable.deps.json
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\bin\Debug\net7.0\SudokuSolvable.runtimeconfig.json
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\bin\Debug\net7.0\SudokuSolvable.dll
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\bin\Debug\net7.0\SudokuSolvable.pdb
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\obj\Debug\net7.0\SudokuSolvable.csproj.AssemblyReference.cache
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\obj\Debug\net7.0\SudokuSolvable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\obj\Debug\net7.0\SudokuSolvable.AssemblyInfoInputs.cache
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\obj\Debug\net7.0\SudokuSolvable.AssemblyInfo.cs
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\obj\Debug\net7.0\SudokuSolvable.csproj.CoreCompileInputs.cache
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\obj\Debug\net7.0\SudokuSolvable.dll
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\obj\Debug\net7.0\refint\SudokuSolvable.dll
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\obj\Debug\net7.0\SudokuSolvable.pdb
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\obj\Debug\net7.0\SudokuSolvable.genruntimeconfig.cache
+C:\Users\iaind\OneDrive\Documents\Projects\C#\Console Apps\SudokuSolvable\obj\Debug\net7.0\ref\SudokuSolvable.dll
